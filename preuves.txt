@@ -1,0 +1,21 @@
+============================
+       CANTINE DU CAMPUS     
+============================
+Nom du client : KOKO
+Montant disponible (FCFA) : 10000
+
+Menu des plats :
+1 - Attiéké-poisson -> 1500 FCFA
+2 - Riz-poulet -> 2000 FCFA
+3 - Alloco-œuf -> 1000 FCFA
+Entrer le code du plat : 3
+Quantité souhaitée : 3
+
+--- FACTURE ---
+Client : KOKO
+Plat : Alloco-œuf
+Prix unitaire : 1000 FCFA
+Quantité : 3
+Total : 3000 FCFA
+Votre monnaie : 7000 FCFA
+Merci pour votre achat, à bientôt !
